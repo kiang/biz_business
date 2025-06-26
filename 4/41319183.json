@@ -1,0 +1,35 @@
+{
+    "id": "41319183",
+    "登記機關": "高雄市政府",
+    "核准設立日期": {
+        "year": 2015,
+        "month": 6,
+        "day": 11
+    },
+    "最近異動日期": {
+        "year": 2023,
+        "month": 12,
+        "day": 1
+    },
+    "商業名稱": "普洛商行",
+    "負責人姓名": "林_帆",
+    "現況": "歇業",
+    "資本額(元)": "200,000",
+    "組織類型": "合夥",
+    "地址": "高雄市鳳山區輜汽北一路18之1號",
+    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家畜家禽批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101130\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t蔬果批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF102170\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF102040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF201010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t農產品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF201020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t畜產品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF201030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨、飲料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t菸酒零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF401010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t國際貿易業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
+    "合夥人姓名": [
+        "黃秀娥",
+        "張泰傑",
+        "劉家豪",
+        "張榆柔"
+    ],
+    "出資額(元)": {
+        "林_帆": "40000",
+        "黃_娥": "40000",
+        "張_傑": "40000",
+        "劉_豪": "40000",
+        "張_柔": "40000"
+    },
+    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI0MTMxOTE4MzIwMjAwMDAwMDAwMDExNzMxODA4&banNo=41319183&banKey=20200000000011731808&disj=7AD6165E495720BD47C16E734BBD8586&fhl=zh_TW"
+}

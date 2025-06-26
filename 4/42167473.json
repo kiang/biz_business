@@ -1,0 +1,33 @@
+{
+    "id": "42167473",
+    "登記機關": "新竹縣政府",
+    "核准設立日期": {
+        "year": 2016,
+        "month": 3,
+        "day": 7
+    },
+    "最近異動日期": {
+        "year": 2023,
+        "month": 11,
+        "day": 2
+    },
+    "商業名稱": "山丘上商行",
+    "負責人姓名": "游_龍",
+    "現況": "歇業",
+    "資本額(元)": "200,000",
+    "組織類型": "合夥",
+    "地址": "新竹縣湖口鄉湖口村祥喜路298巷155號",
+    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料店業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA101011\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t種苗業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA101020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t農作物栽培業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA101030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t特用作物栽培業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA101050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t花卉栽培業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA102020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t農產品整理業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA102041\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t休閒農業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA102050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t作物栽培服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tA102080\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t園藝服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他餐飲業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
+    "合夥人姓名": [
+        "徐定豐",
+        "黃崇勝",
+        "杜榮憲"
+    ],
+    "出資額(元)": {
+        "游_龍": "60000",
+        "徐_豐": "20000",
+        "黃_勝": "100000",
+        "杜_憲": "20000"
+    },
+    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI0MjE2NzQ3MzkzMzAwMDAwMDAwMDEyNjY3MDI5&banNo=42167473&banKey=93300000000012667029&disj=E2A6263DD63C3704D57838A2818B5F3A&fhl=zh_TW"
+}

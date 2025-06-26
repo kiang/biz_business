@@ -1,0 +1,33 @@
+{
+    "id": "82144125",
+    "登記機關": "新北市政府經濟發展局",
+    "核准設立日期": {
+        "year": 2018,
+        "month": 11,
+        "day": 13
+    },
+    "最近異動日期": {
+        "year": 2024,
+        "month": 12,
+        "day": 26
+    },
+    "商業名稱": "爵士輕重型機車行",
+    "負責人姓名": "蕭_爵",
+    "資本額(元)": "200,000",
+    "組織類型": "合夥",
+    "地址": "新北市三重區永安北路1段13號",
+    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF114020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJE01010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t租賃業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF113070\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電信器材批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF113020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF119010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電子材料批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF113030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t精密儀器批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電信器材零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF219010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電子材料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t精密儀器零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
+    "合夥人姓名": [
+        "李宗勳",
+        "蔡沅錡",
+        "蕭重成"
+    ],
+    "出資額(元)": {
+        "蕭_爵": "50000",
+        "李_勳": "50000",
+        "蔡_錡": "50000",
+        "蕭_成": "50000"
+    },
+    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI4MjE0NDEyNTQzMTAwMDAwMDAwMDE2MjQ0OTE4&banNo=82144125&banKey=43100000000016244918&disj=190BE22AF759C49B10973BF3EC641C42&fhl=zh_TW",
+    "登記現況": "核准設立"
+}
