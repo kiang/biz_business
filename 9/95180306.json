@@ -1,5 +1,4 @@
 {
-    "id": "95180306",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,30 @@
         "day": 15
     },
     "商業名稱": "物拾工作室",
-    "負責人姓名": "楊_晴",
+    "負責人姓名": "楊雅晴",
+    "出資額(元)": [
+        {
+            "楊雅晴": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區深溪路123號",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA03010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t洗衣業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJZ99990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t未分類其他服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tC401030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t皮革、毛皮整製業",
-    "出資額(元)": {
-        "楊_晴": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDMwNjQxMTAwMDAwMDAwMDI1NjI4MjYz&banNo=95180306&banKey=41100000000025628263&disj=E0739D9DFE0C3AD76696967B7BF1150D&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "JA03010",
+            "洗衣業"
+        ],
+        [
+            "JZ99990",
+            "未分類其他服務業"
+        ],
+        [
+            "C401030",
+            "皮革、毛皮整製業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:37+00:00",
+    "id": "95180306"
 }

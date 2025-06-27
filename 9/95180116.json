@@ -1,5 +1,4 @@
 {
-    "id": "95180116",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,38 @@
         "day": 24
     },
     "商業名稱": "曦光文化工作室",
-    "負責人姓名": "謝_妍",
+    "負責人姓名": "謝彤妍",
+    "出資額(元)": [
+        {
+            "謝彤妍": 100
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "100,000",
     "組織類型": "獨資",
     "地址": "基隆市中山區中山三路103巷130號(1樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ305010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t有聲出版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ404010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t動畫影片製作業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ601010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t藝文服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ602010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t演藝活動業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ604010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t聲音錄製及音樂發行業",
-    "出資額(元)": {
-        "謝_妍": "100000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDExNjkxMTAwMDAwMDAwMDI1NTk3ODYy&banNo=95180116&banKey=91100000000025597862&disj=32D5F67C0A43B40935F18BF911E5AC88&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "J305010",
+            "有聲出版業"
+        ],
+        [
+            "J404010",
+            "動畫影片製作業"
+        ],
+        [
+            "J601010",
+            "藝文服務業"
+        ],
+        [
+            "J602010",
+            "演藝活動業"
+        ],
+        [
+            "J604010",
+            "聲音錄製及音樂發行業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:37+00:00",
+    "id": "95180116"
 }

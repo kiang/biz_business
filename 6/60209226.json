@@ -1,5 +1,4 @@
 {
-    "id": "60209226",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,30 @@
         "day": 16
     },
     "商業名稱": "優仙小吃店",
-    "負責人姓名": "陳_仲",
+    "負責人姓名": "陳人仲",
+    "出資額(元)": [
+        {
+            "陳人仲": 5
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "5,000",
     "組織類型": "獨資",
     "地址": "基隆市七堵區實踐路128號1樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t菸酒零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料店業",
-    "出資額(元)": {
-        "陳_仲": "5000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI2MDIwOTIyNjExMTAwMDAwMDAwMDI1NjMzODM2&banNo=60209226&banKey=11100000000025633836&disj=69DA9E6BDA60798AB9E45B979B986D1D&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F501060",
+            "餐館業"
+        ],
+        [
+            "F203020",
+            "菸酒零售業"
+        ],
+        [
+            "F501030",
+            "飲料店業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:25+00:00",
+    "id": "60209226"
 }

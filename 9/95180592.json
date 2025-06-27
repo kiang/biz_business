@@ -1,5 +1,4 @@
 {
-    "id": "95180592",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,38 @@
         "day": 24
     },
     "商業名稱": "立鑫企業社",
-    "負責人姓名": "林_恩",
+    "負責人姓名": "林偉恩",
+    "出資額(元)": [
+        {
+            "林偉恩": 50
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "50,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區深溪路25號(4樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tG801010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t倉儲業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIZ12010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t人力派遣業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tG409030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t工業專用港或工業專用碼頭船舶理貨業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIZ06010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t理貨包裝業",
-    "出資額(元)": {
-        "林_恩": "50000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDU5MjIxMTAwMDAwMDAwMDI1NjY5ODU5&banNo=95180592&banKey=21100000000025669859&disj=D1D02816D5468AA4410E8B13B1CCF41E&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ],
+        [
+            "G801010",
+            "倉儲業"
+        ],
+        [
+            "IZ12010",
+            "人力派遣業"
+        ],
+        [
+            "G409030",
+            "工業專用港或工業專用碼頭船舶理貨業"
+        ],
+        [
+            "IZ06010",
+            "理貨包裝業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:07:38+00:00",
+    "id": "95180592"
 }

@@ -1,5 +1,4 @@
 {
-    "id": "60211258",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,34 @@
         "day": 21
     },
     "商業名稱": "協和漁行",
-    "負責人姓名": "林_枝",
+    "負責人姓名": "林添枝",
+    "出資額(元)": [
+        {
+            "林添枝": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區孝一路28號(2樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF201030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJZ99050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t仲介服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "林_枝": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI2MDIxMTI1ODUxMTAwMDAwMDAwMDI1NjUyMzM1&banNo=60211258&banKey=51100000000025652335&disj=1D6F59CAEBC1D374232DE170095A19A0&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F101050",
+            "水產品批發業"
+        ],
+        [
+            "F201030",
+            "水產品零售業"
+        ],
+        [
+            "JZ99050",
+            "仲介服務業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:33+00:00",
+    "id": "60211258"
 }

@@ -1,5 +1,4 @@
 {
-    "id": "95180093",
     "登記機關": "高雄市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,54 @@
         "day": 28
     },
     "商業名稱": "野鋁匠商行",
-    "負責人姓名": "王_潔",
+    "負責人姓名": "王憶潔",
+    "出資額(元)": [
+        {
+            "王憶潔": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "高雄市前鎮區三多三路105號12樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF204110\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t布疋、衣著、鞋、帽、傘、服飾品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t五金零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF209060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t文教、樂器、育樂用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF401010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t國際貿易業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t汽、機車零件配備零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他交通運輸工具及其零件零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF205040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家具、寢具、廚房器具、裝設品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車修理業",
-    "出資額(元)": {
-        "王_潔": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDA5MzkwMjAwMDAwMDAwMDI1ODA2Mzc0&banNo=95180093&banKey=90200000000025806374&disj=11CB147E18288997EF199E674EDFC9A0&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F204110",
+            "布疋、衣著、鞋、帽、傘、服飾品零售業"
+        ],
+        [
+            "F206010",
+            "五金零售業"
+        ],
+        [
+            "F206020",
+            "日常用品零售業"
+        ],
+        [
+            "F209060",
+            "文教、樂器、育樂用品零售業"
+        ],
+        [
+            "F401010",
+            "國際貿易業"
+        ],
+        [
+            "F214030",
+            "汽、機車零件配備零售業"
+        ],
+        [
+            "F214990",
+            "其他交通運輸工具及其零件零售業"
+        ],
+        [
+            "F205040",
+            "家具、寢具、廚房器具、裝設品零售業"
+        ],
+        [
+            "JA02020",
+            "機車修理業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:37+00:00",
+    "id": "95180093"
 }

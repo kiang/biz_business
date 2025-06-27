@@ -1,5 +1,4 @@
 {
-    "id": "95180684",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,42 @@
         "day": 28
     },
     "商業名稱": "旭川蓁工程行",
-    "負責人姓名": "高_川",
+    "負責人姓名": "高美川",
+    "出資額(元)": [
+        {
+            "高美川": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市中正區新豐街303巷21弄2號2樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t室內裝潢業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t門窗安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE903010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t防蝕、防銹工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603100\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電焊工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEZ99990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "高_川": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDY4NDYxMTAwMDAwMDAwMDI1NjgxNjg4&banNo=95180684&banKey=61100000000025681688&disj=38A24A05FECD1CB9FF4329F61FAB2CC4&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "E801010",
+            "室內裝潢業"
+        ],
+        [
+            "E801020",
+            "門窗安裝工程業"
+        ],
+        [
+            "E903010",
+            "防蝕、防銹工程業"
+        ],
+        [
+            "E603100",
+            "電焊工程業"
+        ],
+        [
+            "EZ99990",
+            "其他工程業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:08:20+00:00",
+    "id": "95180684"
 }

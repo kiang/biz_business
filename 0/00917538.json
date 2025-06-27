@@ -1,5 +1,4 @@
 {
-    "id": "00917538",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 1987,
@@ -12,14 +11,54 @@
         "day": 17
     },
     "商業名稱": "合益機車行",
-    "負責人姓名": "張_安",
+    "負責人姓名": "張春安",
+    "出資額(元)": [
+        {
+            "張春安": 100
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "100,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區忠三路一Ｏ三號",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF114020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 機車批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF114030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 汽、機車零件配備批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 機車零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 汽、機車零件配備零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車修理業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器及電子產品修理業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF219010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電子材料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIZ99990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他工商服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t自行車修理業",
-    "出資額(元)": {
-        "張_安": "100000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEIwMDkxNzUzODIxMTAwMDAwMDAwMDAwMDU1MzQ4&banNo=00917538&banKey=21100000000000055348&disj=248E432D837DE8E84FF00D1FB2BD7AAD&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F114020",
+            "機車批發業"
+        ],
+        [
+            "F114030",
+            "汽、機車零件配備批發業"
+        ],
+        [
+            "F214020",
+            "機車零售業"
+        ],
+        [
+            "F214030",
+            "汽、機車零件配備零售業"
+        ],
+        [
+            "JA02020",
+            "機車修理業"
+        ],
+        [
+            "JA02010",
+            "電器及電子產品修理業"
+        ],
+        [
+            "F219010",
+            "電子材料零售業"
+        ],
+        [
+            "IZ99990",
+            "其他工商服務業"
+        ],
+        [
+            "JA02030",
+            "自行車修理業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:09:29+00:00",
+    "id": "00917538"
 }

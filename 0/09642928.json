@@ -1,5 +1,4 @@
 {
-    "id": "09642928",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2006,
@@ -12,14 +11,86 @@
         "day": 16
     },
     "商業名稱": "桂冠旗艦店",
-    "負責人姓名": "鄭_英",
+    "負責人姓名": "鄭惠英",
+    "出資額(元)": [
+        {
+            "鄭惠英": 246
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "246,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區和明里仁二路九四號一樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器承裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器安裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801070\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t廚具、衛浴設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF105050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家具、寢具、廚房器具、裝設品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF205040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家具、寢具、廚房器具、裝設品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t五金批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t五金零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水器材料批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水器材料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF113020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t13\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF111090\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t建材批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t15\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF211010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t建材零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t陶瓷玻璃器皿批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t17\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603130\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t燃氣熱水器承裝業",
-    "出資額(元)": {
-        "鄭_英": "246000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEIwOTY0MjkyODYxMTAwMDAwMDAwMDAwMDU2NzQy&banNo=09642928&banKey=61100000000000056742&disj=5AD199DC6FDBCFD6BF2B3AD5BB39795B&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "E601010",
+            "電器承裝業"
+        ],
+        [
+            "E601020",
+            "電器安裝業"
+        ],
+        [
+            "E801070",
+            "廚具、衛浴設備安裝工程業"
+        ],
+        [
+            "F105050",
+            "家具、寢具、廚房器具、裝設品批發業"
+        ],
+        [
+            "F205040",
+            "家具、寢具、廚房器具、裝設品零售業"
+        ],
+        [
+            "F106010",
+            "五金批發業"
+        ],
+        [
+            "F206010",
+            "五金零售業"
+        ],
+        [
+            "F106020",
+            "日常用品批發業"
+        ],
+        [
+            "F206020",
+            "日常用品零售業"
+        ],
+        [
+            "F106040",
+            "水器材料批發業"
+        ],
+        [
+            "F206040",
+            "水器材料零售業"
+        ],
+        [
+            "F113020",
+            "電器批發業"
+        ],
+        [
+            "F213010",
+            "電器零售業"
+        ],
+        [
+            "F111090",
+            "建材批發業"
+        ],
+        [
+            "F211010",
+            "建材零售業"
+        ],
+        [
+            "F106050",
+            "陶瓷玻璃器皿批發業"
+        ],
+        [
+            "E603130",
+            "燃氣熱水器承裝業"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:09:38+00:00",
+    "id": "09642928"
 }

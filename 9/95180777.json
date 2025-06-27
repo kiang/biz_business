@@ -1,5 +1,4 @@
 {
-    "id": "95180777",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,30 @@
         "day": 30
     },
     "商業名稱": "永程電器行",
-    "負責人姓名": "吳_霆",
+    "負責人姓名": "吳俊霆",
+    "出資額(元)": [
+        {
+            "吳俊霆": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市中正區新豐街251巷4弄15號(1樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器安裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "吳_霆": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDc3NzQxMTAwMDAwMDAwMDI1Njk0MzQ3&banNo=95180777&banKey=41100000000025694347&disj=EA4EBE73928E3C78016E1294C04F46F4&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F213010",
+            "電器零售業"
+        ],
+        [
+            "E601020",
+            "電器安裝業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:08:59+00:00",
+    "id": "95180777"
 }

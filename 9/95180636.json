@@ -1,5 +1,4 @@
 {
-    "id": "95180636",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,94 @@
         "day": 25
     },
     "商業名稱": "無感創研企業社",
-    "負責人姓名": "翁_欣",
+    "負責人姓名": "翁鈺欣",
+    "出資額(元)": [
+        {
+            "翁鈺欣": 150
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "150,000",
     "組織類型": "獨資",
     "地址": "基隆市七堵區長安街233巷56號2樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF107030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t清潔用品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF108040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t化粧品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF115010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t首飾及貴金屬批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF199990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF204110\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t布疋、衣著、鞋、帽、傘、服飾品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF205040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家具、寢具、廚房器具、裝設品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF207030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t清潔用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF208040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t化粧品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF215010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t首飾及貴金屬零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t無店面零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他綜合零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t13\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF401010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t國際貿易業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF102170\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t15\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF104110\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t布疋、衣著、鞋、帽、傘、服飾品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF105050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t家具、寢具、廚房器具、裝設品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t17\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t18\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨、飲料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t19\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "翁_欣": "150000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDYzNjMxMTAwMDAwMDAwMDI1NjczMjQ2&banNo=95180636&banKey=31100000000025673246&disj=2D4CDF677DD740250586E1A0BC3EAB1B&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F107030",
+            "清潔用品批發業"
+        ],
+        [
+            "F108040",
+            "化粧品批發業"
+        ],
+        [
+            "F115010",
+            "首飾及貴金屬批發業"
+        ],
+        [
+            "F199990",
+            "其他批發業"
+        ],
+        [
+            "F204110",
+            "布疋、衣著、鞋、帽、傘、服飾品零售業"
+        ],
+        [
+            "F205040",
+            "家具、寢具、廚房器具、裝設品零售業"
+        ],
+        [
+            "F206020",
+            "日常用品零售業"
+        ],
+        [
+            "F207030",
+            "清潔用品零售業"
+        ],
+        [
+            "F208040",
+            "化粧品零售業"
+        ],
+        [
+            "F215010",
+            "首飾及貴金屬零售業"
+        ],
+        [
+            "F399040",
+            "無店面零售業"
+        ],
+        [
+            "F399990",
+            "其他綜合零售業"
+        ],
+        [
+            "F401010",
+            "國際貿易業"
+        ],
+        [
+            "F102170",
+            "食品什貨批發業"
+        ],
+        [
+            "F104110",
+            "布疋、衣著、鞋、帽、傘、服飾品批發業"
+        ],
+        [
+            "F105050",
+            "家具、寢具、廚房器具、裝設品批發業"
+        ],
+        [
+            "F106020",
+            "日常用品批發業"
+        ],
+        [
+            "F203010",
+            "食品什貨、飲料零售業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:07:56+00:00",
+    "id": "95180636"
 }

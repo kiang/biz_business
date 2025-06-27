@@ -1,5 +1,4 @@
 {
-    "id": "95180164",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,16 +11,39 @@
         "day": 11
     },
     "商業名稱": "西夏商行",
-    "負責人姓名": "楊_緯",
+    "負責人姓名": "楊士緯",
+    "出資額(元)": [
+        {
+            "楊士緯": 100
+        }
+    ],
+    "合夥人姓名": "張宸瑜\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):140,000",
+    "登記現況": "核准設立",
     "資本額(元)": "240,000",
     "組織類型": "合夥",
     "地址": "基隆市中山區文化路10巷1號",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF102030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t菸酒批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t菸酒零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t酒精零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t雪茄零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "合夥人姓名": "張宸瑜",
-    "出資額(元)": {
-        "楊_緯": "100000",
-        "張_瑜": "140000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE4MDE2NDcxMTAwMDAwMDAwMDI1NjEzODI1&banNo=95180164&banKey=71100000000025613825&disj=8F7401B212AD022F21398EDF69365FFF&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F102030",
+            "菸酒批發業"
+        ],
+        [
+            "F203020",
+            "菸酒零售業"
+        ],
+        [
+            "F203030",
+            "酒精零售業"
+        ],
+        [
+            "F203040",
+            "雪茄零售業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-26T15:05:37+00:00",
+    "id": "95180164"
 }
