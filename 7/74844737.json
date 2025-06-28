@@ -1,5 +1,4 @@
 {
-    "id": "74844737",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2000,
@@ -12,14 +11,30 @@
         "day": 30
     },
     "商業名稱": "永晟魚行",
-    "負責人姓名": "陳_錡",
+    "負責人姓名": "陳諺錡",
+    "出資額(元)": [
+        {
+            "陳諺錡": 5
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "5,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區愛一路101之2號(3樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF201030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水產品批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF101990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他農、畜、水產品批發業",
-    "出資額(元)": {
-        "陳_錡": "5000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI3NDg0NDczNzcxMTAwMDAwMDAwMDAwMDU0NTcz&banNo=74844737&banKey=71100000000000054573&disj=0E4F96680057D1686A5E99A94591DE24&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F201030",
+            "水產品零售業"
+        ],
+        [
+            "F101050",
+            "水產品批發業"
+        ],
+        [
+            "F101990",
+            "其他農、畜、水產品批發業"
+        ]
+    ],
+    "crawled_at": "2025-06-28T15:26:12+00:00",
+    "id": "74844737"
 }

@@ -1,5 +1,4 @@
 {
-    "id": "82217479",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2019,
@@ -12,14 +11,50 @@
         "day": 9
     },
     "商業名稱": "神夾娃娃屋",
-    "負責人姓名": "連_絜",
+    "負責人姓名": "連禹絜",
+    "出資額(元)": [
+        {
+            "連禹絜": 50
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "50,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區愛四路42號1樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨、飲料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF204110\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t布疋、衣著、鞋、帽、傘、服飾品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t日常用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF209060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t文教、樂器、育樂用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF210010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t鐘錶零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF218010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t資訊軟體零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ701020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t遊樂園業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "連_絜": "50000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI4MjIxNzQ3OTQxMTAwMDAwMDAwMDE2NzMwNjkz&banNo=82217479&banKey=41100000000016730693&disj=AEBD74A6ABA5F9D6959404FCF61C46D1&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F203010",
+            "食品什貨、飲料零售業"
+        ],
+        [
+            "F204110",
+            "布疋、衣著、鞋、帽、傘、服飾品零售業"
+        ],
+        [
+            "F206020",
+            "日常用品零售業"
+        ],
+        [
+            "F209060",
+            "文教、樂器、育樂用品零售業"
+        ],
+        [
+            "F210010",
+            "鐘錶零售業"
+        ],
+        [
+            "F218010",
+            "資訊軟體零售業"
+        ],
+        [
+            "J701020",
+            "遊樂園業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-28T15:26:39+00:00",
+    "id": "82217479"
 }

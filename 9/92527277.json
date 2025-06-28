@@ -1,5 +1,4 @@
 {
-    "id": "92527277",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2023,
@@ -12,14 +11,90 @@
         "day": 10
     },
     "商業名稱": "棋心空調工程行",
-    "負責人姓名": "黃_蓁",
+    "負責人姓名": "黃薇蓁",
+    "出資額(元)": [
+        {
+            "黃薇蓁": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區東信路2巷1號(1樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE599010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t配管工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器承裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器安裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603050\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t自動控制設備工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603100\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電焊工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t室內裝潢業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t門窗安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t室內輕鋼架工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t玻璃安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE801070\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t廚具、衛浴設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE901010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t油漆工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t消防安全設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t13\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603090\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t照明設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEZ15010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t保溫、保冷安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t15\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電纜安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF213010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t17\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF113020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t18\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ101010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t建築物清潔服務業",
-    "出資額(元)": {
-        "黃_蓁": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5MjUyNzI3NzQxMTAwMDAwMDAwMDIyMTkyNjU1&banNo=92527277&banKey=41100000000022192655&disj=39D08CCAD332B65879C0B5FD909A947A&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "E599010",
+            "配管工程業"
+        ],
+        [
+            "E601010",
+            "電器承裝業"
+        ],
+        [
+            "E601020",
+            "電器安裝業"
+        ],
+        [
+            "E603050",
+            "自動控制設備工程業"
+        ],
+        [
+            "E603100",
+            "電焊工程業"
+        ],
+        [
+            "E801010",
+            "室內裝潢業"
+        ],
+        [
+            "E801020",
+            "門窗安裝工程業"
+        ],
+        [
+            "E801030",
+            "室內輕鋼架工程業"
+        ],
+        [
+            "E801040",
+            "玻璃安裝工程業"
+        ],
+        [
+            "E801070",
+            "廚具、衛浴設備安裝工程業"
+        ],
+        [
+            "E901010",
+            "油漆工程業"
+        ],
+        [
+            "E603040",
+            "消防安全設備安裝工程業"
+        ],
+        [
+            "E603090",
+            "照明設備安裝工程業"
+        ],
+        [
+            "EZ15010",
+            "保溫、保冷安裝工程業"
+        ],
+        [
+            "E603010",
+            "電纜安裝工程業"
+        ],
+        [
+            "F213010",
+            "電器零售業"
+        ],
+        [
+            "F113020",
+            "電器批發業"
+        ],
+        [
+            "J101010",
+            "建築物清潔服務業"
+        ]
+    ],
+    "crawled_at": "2025-06-28T15:27:37+00:00",
+    "id": "92527277"
 }

@@ -1,5 +1,4 @@
 {
-    "id": "74842581",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2000,
@@ -12,14 +11,30 @@
         "day": 2
     },
     "商業名稱": "長欣機車行",
-    "負責人姓名": "吳_駿",
+    "負責人姓名": "吳長駿",
+    "出資額(元)": [
+        {
+            "吳長駿": 20
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "20,000",
     "組織類型": "獨資",
     "地址": "基隆市中正區新豐街303巷11號",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t汽、機車零件配備零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ101990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他環境衛生及污染防治服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車修理業",
-    "出資額(元)": {
-        "吳_駿": "20000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI3NDg0MjU4MTAxMTAwMDAwMDAwMDAwMDU0NTI2&banNo=74842581&banKey=01100000000000054526&disj=F7EF8F69FF443C206E7C77161AF73D23&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F214030",
+            "汽、機車零件配備零售業"
+        ],
+        [
+            "J101990",
+            "其他環境衛生及污染防治服務業"
+        ],
+        [
+            "JA02020",
+            "機車修理業"
+        ]
+    ],
+    "crawled_at": "2025-06-28T15:26:08+00:00",
+    "id": "74842581"
 }

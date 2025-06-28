@@ -1,5 +1,4 @@
 {
-    "id": "76667709",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 1992,
@@ -12,22 +11,31 @@
         "day": 7
     },
     "商業名稱": "歡樂小吃店",
-    "負責人姓名": "李_助",
+    "負責人姓名": "李明助",
+    "出資額(元)": [
+        {
+            "李明助": 5
+        }
+    ],
+    "合夥人姓名": "黃志柔\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):5,000\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t李馥萱\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):5,000\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t李蕙如\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):5,000",
+    "登記現況": "核准設立",
     "資本額(元)": "20,000",
     "組織類型": "合夥",
     "地址": "基隆市中正區義二路四八號一樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料店業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "合夥人姓名": [
-        "黃志柔",
-        "李馥萱",
-        "李蕙如"
+    "營業項目": [
+        [
+            "F501030",
+            "飲料店業"
+        ],
+        [
+            "F501060",
+            "餐館業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
     ],
-    "出資額(元)": {
-        "李_助": "5000",
-        "黃_柔": "5000",
-        "李_萱": "5000",
-        "李_如": "5000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI3NjY2NzcwOTMxMTAwMDAwMDAwMDAwMDQ4MTI5&banNo=76667709&banKey=31100000000000048129&disj=A25890187272745F77A8A3A652E80545&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T15:26:21+00:00",
+    "id": "76667709"
 }

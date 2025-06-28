@@ -1,5 +1,4 @@
 {
-    "id": "21524714",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2005,
@@ -12,20 +11,31 @@
         "day": 22
     },
     "商業名稱": "第一托運行",
-    "負責人姓名": "林_銘",
+    "負責人姓名": "林仲銘",
+    "出資額(元)": [
+        {
+            "林仲銘": 20
+        }
+    ],
+    "合夥人姓名": "連唯蓉\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):80,000\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t林俊男\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):100,000",
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "合夥",
     "地址": "基隆市中正區義一路87號7樓之3",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tG799990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他運輸輔助業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIZ06010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t理貨包裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "合夥人姓名": [
-        "連唯蓉",
-        "林俊男"
+    "營業項目": [
+        [
+            "G799990",
+            "其他運輸輔助業"
+        ],
+        [
+            "IZ06010",
+            "理貨包裝業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
     ],
-    "出資額(元)": {
-        "林_銘": "20000",
-        "連_蓉": "80000",
-        "林_男": "100000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEIyMTUyNDcxNDMxMTAwMDAwMDAwMDAwMDU4MzE5&banNo=21524714&banKey=31100000000000058319&disj=75D268A7C6AC06E84F2F2A5234EADB2E&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "crawled_at": "2025-06-28T15:24:56+00:00",
+    "id": "21524714"
 }
