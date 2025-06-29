@@ -1,5 +1,4 @@
 {
-    "id": "91624693",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2022,
@@ -12,14 +11,114 @@
         "day": 18
     },
     "商業名稱": "有光的人工作室",
-    "負責人姓名": "廖_羽",
+    "負責人姓名": "廖晨羽",
+    "出資額(元)": [
+        {
+            "廖晨羽": 50
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "50,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區深澳坑路166之18號9樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ303010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t雜誌（期刊）出版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ399990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他出版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ305010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t有聲出版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ304010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t圖書出版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ601010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t藝文服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ603010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t音樂展演空間業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ604010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t聲音錄製及音樂發行業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJI01010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t互動式情境體驗服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ803010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t運動表演業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t10\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJB01010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t會議及展覽服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t11\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tI199990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他顧問服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t12\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIZ10010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t排版業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t13\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ402010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電影片發行業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t14\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ401010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電影片製作業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t15\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ602010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t演藝活動業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t16\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ701090\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t錄影節目帶播映業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t17\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t無店面零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t18\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ403010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電影片映演業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t19\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ404040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電影錄音業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t20\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ799990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他休閒服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t21\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJZ99030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t攝影業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t22\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ503030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t廣播電視節目發行業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t23\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ503040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t廣播電視廣告業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t24\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ503010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t廣播節目製作業",
-    "出資額(元)": {
-        "廖_羽": "50000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5MTYyNDY5MzMxMTAwMDAwMDAwMDIxNDYxMjUx&banNo=91624693&banKey=31100000000021461251&disj=FC76B759F2A636160FD6C884E8D2A4DF&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "J303010",
+            "雜誌（期刊）出版業"
+        ],
+        [
+            "J399990",
+            "其他出版業"
+        ],
+        [
+            "J305010",
+            "有聲出版業"
+        ],
+        [
+            "J304010",
+            "圖書出版業"
+        ],
+        [
+            "J601010",
+            "藝文服務業"
+        ],
+        [
+            "J603010",
+            "音樂展演空間業"
+        ],
+        [
+            "J604010",
+            "聲音錄製及音樂發行業"
+        ],
+        [
+            "JI01010",
+            "互動式情境體驗服務業"
+        ],
+        [
+            "J803010",
+            "運動表演業"
+        ],
+        [
+            "JB01010",
+            "會議及展覽服務業"
+        ],
+        [
+            "I199990",
+            "其他顧問服務業"
+        ],
+        [
+            "IZ10010",
+            "排版業"
+        ],
+        [
+            "J402010",
+            "電影片發行業"
+        ],
+        [
+            "J401010",
+            "電影片製作業"
+        ],
+        [
+            "J602010",
+            "演藝活動業"
+        ],
+        [
+            "J701090",
+            "錄影節目帶播映業"
+        ],
+        [
+            "F399040",
+            "無店面零售業"
+        ],
+        [
+            "J403010",
+            "電影片映演業"
+        ],
+        [
+            "J404040",
+            "電影錄音業"
+        ],
+        [
+            "J799990",
+            "其他休閒服務業"
+        ],
+        [
+            "JZ99030",
+            "攝影業"
+        ],
+        [
+            "J503030",
+            "廣播電視節目發行業"
+        ],
+        [
+            "J503040",
+            "廣播電視廣告業"
+        ],
+        [
+            "J503010",
+            "廣播節目製作業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:28:37+00:00",
+    "id": "91624693"
 }

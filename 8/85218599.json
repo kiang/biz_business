@@ -1,5 +1,4 @@
 {
-    "id": "85218599",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2019,
@@ -12,16 +11,47 @@
         "day": 12
     },
     "商業名稱": "竑勁工程行",
-    "負責人姓名": "陳_春",
+    "負責人姓名": "陳立春",
+    "出資額(元)": [
+        {
+            "陳立春": 100
+        }
+    ],
+    "合夥人姓名": "柳力妅\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t出資額(元):100,000",
+    "登記現況": "歇業",
     "資本額(元)": "200,000",
     "組織類型": "合夥",
     "地址": "基隆市安樂區樂利二街62巷21號7樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE599010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t配管工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE601010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電器承裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t消防安全設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603090\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t照明設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水器材料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF211010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t建材零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF117010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t消防安全設備批發業",
-    "合夥人姓名": "柳力妅",
-    "出資額(元)": {
-        "陳_春": "100000",
-        "柳_妅": "100000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI4NTIxODU5OTYxMTAwMDAwMDAwMDE3MzQxNzMx&banNo=85218599&banKey=61100000000017341731&disj=E28241B7A2BE59AA059B539846AA5C08&fhl=zh_TW",
-    "登記現況": "歇業"
+    "營業項目": [
+        [
+            "E599010",
+            "配管工程業"
+        ],
+        [
+            "E601010",
+            "電器承裝業"
+        ],
+        [
+            "E603040",
+            "消防安全設備安裝工程業"
+        ],
+        [
+            "E603090",
+            "照明設備安裝工程業"
+        ],
+        [
+            "F206040",
+            "水器材料零售業"
+        ],
+        [
+            "F211010",
+            "建材零售業"
+        ],
+        [
+            "F117010",
+            "消防安全設備批發業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:31:33+00:00",
+    "id": "85218599"
 }

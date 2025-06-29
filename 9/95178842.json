@@ -1,5 +1,4 @@
 {
-    "id": "95178842",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,30 @@
         "day": 17
     },
     "商業名稱": "舜奇自然商行",
-    "負責人姓名": "王_皓",
+    "負責人姓名": "王星皓",
+    "出資額(元)": [
+        {
+            "王星皓": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市七堵區崇智街35巷25之2號(3樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他餐飲業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ101020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t病媒防治業",
-    "出資額(元)": {
-        "王_皓": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE3ODg0MjkxMTAwMDAwMDAwMDI1Mzg1NzU5&banNo=95178842&banKey=91100000000025385759&disj=1B4E3B0F57A6FE820A91B23819992890&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F501060",
+            "餐館業"
+        ],
+        [
+            "F501990",
+            "其他餐飲業"
+        ],
+        [
+            "J101020",
+            "病媒防治業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:22:00+00:00",
+    "id": "95178842"
 }

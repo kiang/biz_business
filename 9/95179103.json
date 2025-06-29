@@ -1,5 +1,4 @@
 {
-    "id": "95179103",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,30 @@
         "day": 25
     },
     "商業名稱": "安策國際工作室",
-    "負責人姓名": "翁_安",
+    "負責人姓名": "翁易安",
+    "出資額(元)": [
+        {
+            "翁易安": 30
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "30,000",
     "組織類型": "獨資",
     "地址": "基隆市暖暖區東碇路507號2樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t無店面零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF209060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t文教、樂器、育樂用品零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ401010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t電影片製作業",
-    "出資額(元)": {
-        "翁_安": "30000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE3OTEwMzkxMTAwMDAwMDAwMDI1NDIzOTMz&banNo=95179103&banKey=91100000000025423933&disj=011133F21AB84D655FC848E86057820F&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F399040",
+            "無店面零售業"
+        ],
+        [
+            "F209060",
+            "文教、樂器、育樂用品零售業"
+        ],
+        [
+            "J401010",
+            "電影片製作業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:23:51+00:00",
+    "id": "95179103"
 }

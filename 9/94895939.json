@@ -1,5 +1,4 @@
 {
-    "id": "94895939",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2024,
@@ -12,14 +11,30 @@
         "day": 27
     },
     "商業名稱": "田水便當店",
-    "負責人姓名": "王_穎",
+    "負責人姓名": "王教穎",
+    "出資額(元)": [
+        {
+            "王教穎": 30
+        }
+    ],
+    "登記現況": "歇業",
     "資本額(元)": "30,000",
     "組織類型": "獨資",
     "地址": "基隆市七堵區明德一路129號(1樓)",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料店業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "王_穎": "30000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NDg5NTkzOTkxMTAwMDAwMDAwMDI0MzI4MjEx&banNo=94895939&banKey=91100000000024328211&disj=A1710D8E1694AD252AEFD270EBEFF6C1&fhl=zh_TW",
-    "登記現況": "歇業"
+    "營業項目": [
+        [
+            "F501030",
+            "飲料店業"
+        ],
+        [
+            "F501060",
+            "餐館業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:32:57+00:00",
+    "id": "94895939"
 }

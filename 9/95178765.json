@@ -1,5 +1,4 @@
 {
-    "id": "95178765",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2025,
@@ -12,14 +11,42 @@
         "day": 14
     },
     "商業名稱": "聚富工作室",
-    "負責人姓名": "周_德",
+    "負責人姓名": "周育德",
+    "出資額(元)": [
+        {
+            "周育德": 200
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "200,000",
     "組織類型": "獨資",
     "地址": "基隆市中正區調和街298號6樓之2",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tI199990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他顧問服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ799990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他休閒服務業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ802010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t運動訓練業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ803010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t運動表演業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJ803020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t運動比賽業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "周_德": "200000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NTE3ODc2NTgxMTAwMDAwMDAwMDI1MzgxOTQ0&banNo=95178765&banKey=81100000000025381944&disj=73C5D640C46074403CEE01418F83C5CD&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "I199990",
+            "其他顧問服務業"
+        ],
+        [
+            "J799990",
+            "其他休閒服務業"
+        ],
+        [
+            "J802010",
+            "運動訓練業"
+        ],
+        [
+            "J803010",
+            "運動表演業"
+        ],
+        [
+            "J803020",
+            "運動比賽業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:21:22+00:00",
+    "id": "95178765"
 }

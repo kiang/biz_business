@@ -1,5 +1,4 @@
 {
-    "id": "30256507",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2009,
@@ -12,14 +11,30 @@
         "day": 18
     },
     "商業名稱": "蔬香如故廚房",
-    "負責人姓名": "莊_南",
+    "負責人姓名": "莊震南",
+    "出資額(元)": [
+        {
+            "莊震南": 68
+        }
+    ],
+    "登記現況": "歇業",
     "資本額(元)": "68,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區義和里信二路27號1樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501060\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t餐館業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF203010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t食品什貨、飲料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF501030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t飲料店業",
-    "出資額(元)": {
-        "莊_南": "68000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEIzMDI1NjUwNzIxMTAwMDAwMDAwMDAwMTYxMTE4&banNo=30256507&banKey=21100000000000161118&disj=C5224FBA41468A22F0B594ED5C226E13&fhl=zh_TW",
-    "登記現況": "歇業"
+    "營業項目": [
+        [
+            "F501060",
+            "餐館業"
+        ],
+        [
+            "F203010",
+            "食品什貨、飲料零售業"
+        ],
+        [
+            "F501030",
+            "飲料店業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:30:02+00:00",
+    "id": "30256507"
 }

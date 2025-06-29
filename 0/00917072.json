@@ -1,5 +1,4 @@
 {
-    "id": "00917072",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 1987,
@@ -12,14 +11,26 @@
         "day": 26
     },
     "商業名稱": "信安機車行",
-    "負責人姓名": "李_庫",
+    "負責人姓名": "李有庫",
+    "出資額(元)": [
+        {
+            "李有庫": 5
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "5,000",
     "組織類型": "獨資",
     "地址": "基隆市仁愛區南榮路381號",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車修理業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t 汽、機車零件配備零售業",
-    "出資額(元)": {
-        "李_庫": "5000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEIwMDkxNzA3MjMxMTAwMDAwMDAwMDAwMDU1MzI5&banNo=00917072&banKey=31100000000000055329&disj=AD922F6FDF2D93D13CB39EDF206BD04A&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "JA02020",
+            "機車修理業"
+        ],
+        [
+            "F214030",
+            "汽、機車零件配備零售業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:25:04+00:00",
+    "id": "00917072"
 }

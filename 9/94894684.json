@@ -1,5 +1,4 @@
 {
-    "id": "94894684",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2024,
@@ -12,14 +11,54 @@
         "day": 5
     },
     "商業名稱": "承軒工程行",
-    "負責人姓名": "楊_毅",
+    "負責人姓名": "楊承毅",
+    "出資額(元)": [
+        {
+            "楊承毅": 248
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "248,000",
     "組織類型": "獨資",
     "地址": "基隆市信義區深溪路36巷102弄7號4樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE599010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t配管工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE603090\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t照明設備安裝工程業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tE701040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t簡易電信設備安裝業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t4\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF106040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水器材料批發業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t5\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206010\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t五金零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t6\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF206040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t水器材料零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t7\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399040\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t無店面零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t8\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF399990\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t其他綜合零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t9\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tZZ99999\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t除許可業務外，得經營法令非禁止或限制之業務",
-    "出資額(元)": {
-        "楊_毅": "248000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5NDg5NDY4NDkxMTAwMDAwMDAwMDIzOTM2NDQy&banNo=94894684&banKey=91100000000023936442&disj=B24381CDFE5EBB9F41548829A5ADF221&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "E599010",
+            "配管工程業"
+        ],
+        [
+            "E603090",
+            "照明設備安裝工程業"
+        ],
+        [
+            "E701040",
+            "簡易電信設備安裝業"
+        ],
+        [
+            "F106040",
+            "水器材料批發業"
+        ],
+        [
+            "F206010",
+            "五金零售業"
+        ],
+        [
+            "F206040",
+            "水器材料零售業"
+        ],
+        [
+            "F399040",
+            "無店面零售業"
+        ],
+        [
+            "F399990",
+            "其他綜合零售業"
+        ],
+        [
+            "ZZ99999",
+            "除許可業務外，得經營法令非禁止或限制之業務"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:29:13+00:00",
+    "id": "94894684"
 }

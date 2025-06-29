@@ -1,5 +1,4 @@
 {
-    "id": "91627474",
     "登記機關": "基隆市政府",
     "核准設立日期": {
         "year": 2022,
@@ -12,14 +11,30 @@
         "day": 26
     },
     "商業名稱": "政旺經國車業行",
-    "負責人姓名": "胡_堯",
+    "負責人姓名": "胡博堯",
+    "出資額(元)": [
+        {
+            "胡博堯": 50
+        }
+    ],
+    "登記現況": "核准設立",
     "資本額(元)": "50,000",
     "組織類型": "獨資",
     "地址": "基隆市中山區復興路369號1樓",
-    "營業項目": "1\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t2\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tF214030\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t汽、機車零件配備零售業\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t3\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJA02020\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t機車修理業",
-    "出資額(元)": {
-        "胡_堯": "50000"
-    },
-    "url": "\/fts\/query\/QueryBusmDetail\/queryBusmDetail.do?objectId=SEI5MTYyNzQ3NDcxMTAwMDAwMDAwMDIxOTAzNzk3&banNo=91627474&banKey=71100000000021903797&disj=FC76B759F2A636160FD6C884E8D2A4DF&fhl=zh_TW",
-    "登記現況": "核准設立"
+    "營業項目": [
+        [
+            "F214020",
+            "機車零售業"
+        ],
+        [
+            "F214030",
+            "汽、機車零件配備零售業"
+        ],
+        [
+            "JA02020",
+            "機車修理業"
+        ]
+    ],
+    "crawled_at": "2025-06-29T22:28:46+00:00",
+    "id": "91627474"
 }
